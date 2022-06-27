@@ -1,0 +1,26 @@
+.blog-item {
+    margin: 0;
+}
+
+.blog-item h2 {
+    font-size: 2rem;
+}
+
+.blog-link {
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+.blog-date-author {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.blog-link h3 {
+    font-size: 1.5rem;
+    text-align: center;
+}
